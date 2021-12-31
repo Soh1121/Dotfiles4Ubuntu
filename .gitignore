@@ -1,0 +1,6 @@
+.vim/bundles
+.vim/plugged
+.vim/.netrwhist
+.vim/.tags
+only-for-this-machine/main.sh
+.DS_Store

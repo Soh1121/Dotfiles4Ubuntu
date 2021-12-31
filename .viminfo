@@ -1,0 +1,646 @@
+# この viminfo ファイルは Vim 8.1 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~MSle0~/python
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+|2,0,1576557607,,"wq"
+:q
+|2,0,1575968797,,"q"
+:w
+|2,0,1575968536,,"w"
+:ew
+|2,0,1575010071,,"ew"
+:q!
+|2,0,1566440680,,"q!"
+:wq feature2.html
+|2,0,1548828501,,"wq feature2.html"
+:wq master2.html
+|2,0,1548828432,,"wq master2.html"
+:w master.html
+|2,0,1548138470,,"w master.html"
+:w feature.html
+|2,0,1548138364,,"w feature.html"
+:21
+|2,0,1544434575,,"21"
+:wq!
+|2,0,1544426459,,"wq!"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+?/python
+|2,1,1556071724,47,"python"
+?/backspace
+|2,1,1544433591,47,"backspace"
+?/color
+|2,1,1544428245,47,"color"
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"0	LINE	0
+	<p>branch</p>
+|3,0,0,1,1,0,1548139584,"<p>branch</p>"
+""1	LINE	0
+	[ぼくのVimさばきを支える設定とその導入手順を紹介する](https://qiita.com/jiroshin/items/ee86ea426a51fa24b319)
+|3,1,1,1,1,0,1576557497,"[ぼくのVimさばきを支える設定とその導入手順を紹介する](https://qiita.com/jiroshin/items/ee86ea426a51fa24b319)"
+"2	LINE	0
+	- 2019/11/27 Vimを中心にdotfilesの内容を紹介する記事を書きました。  
+|3,0,2,1,1,0,1576557497,"- 2019/11/27 Vimを中心にdotfilesの内容を紹介する記事を書きました。  "
+"3	LINE	0
+	## Memo
+|3,0,3,1,1,0,1576557496,"## Memo"
+"4	LINE	0
+	#!/Users/soichi/WorkSpace/01_Development/Trial/Cabocha-Word2Vec-CosineSimilarity/Cabocha-Word2Vec-CosineSimilarity-py/bin python
+|3,0,4,1,1,0,1574166163,"#!/Users/soichi/WorkSpace/01_Development/Trial/Cabocha-Word2Vec-CosineSimilarity/Cabocha-Word2Vec-CosineSimilarity-py/bin python"
+"5	LINE	0
+	#!/usr/bin/env python
+|3,0,5,1,1,0,1574166103,"#!/usr/bin/env python"
+"6	LINE	0
+	
+|3,0,6,1,1,0,1574165511,""
+"7	LINE	0
+	#!/usr/bin/env python
+|3,0,7,1,1,0,1574165510,"#!/usr/bin/env python"
+"8	LINE	0
+	pick 8c4dc9b first.htmlを追加
+|3,0,8,1,1,0,1548831908,"pick 8c4dc9b first.htmlを追加"
+"9	LINE	0
+	pick 9728853 second.htmlを追加
+|3,0,9,1,1,0,1548831894,"pick 9728853 second.htmlを追加"
+"-	CHAR	0
+	/Users/soichi/Desktop/OCR/jpg/3.jpg
+|3,0,36,0,1,0,1575608704,"/Users/soichi/Desktop/OCR/jpg/3.jpg"
+
+# ファイルマーク:
+'0  1  21  ~/Dotfiles/.git/COMMIT_EDITMSG
+|4,48,1,21,1576557607,"~/Dotfiles/.git/COMMIT_EDITMSG"
+'1  5  28  ~/Dotfiles/.gitignore
+|4,49,5,28,1576557522,"~/Dotfiles/.gitignore"
+'2  14  0  ~/Dotfiles/README.md
+|4,50,14,0,1576557499,"~/Dotfiles/README.md"
+'3  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,51,1,15,1576220867,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+'4  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,52,1,15,1576219250,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+'5  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,53,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+'6  1  15  ~/WorkSpace/03_Study/はてなブックマーク/HatenaBookmarkDiary/.git/COMMIT_EDITMSG
+|4,54,1,15,1575875828,"~/WorkSpace/03_Study/はてなブックマーク/HatenaBookmarkDiary/.git/COMMIT_EDITMSG"
+'7  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,55,1,15,1575873143,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+'8  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,56,1,15,1575873143,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+'9  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,57,1,15,1575871895,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+
+# ジャンプリスト (新しいものが先):
+-'  1  21  ~/Dotfiles/.git/COMMIT_EDITMSG
+|4,39,1,21,1576557607,"~/Dotfiles/.git/COMMIT_EDITMSG"
+-'  5  28  ~/Dotfiles/.gitignore
+|4,39,5,28,1576557522,"~/Dotfiles/.gitignore"
+-'  5  28  ~/Dotfiles/.gitignore
+|4,39,5,28,1576557522,"~/Dotfiles/.gitignore"
+-'  1  0  ~/Dotfiles/.gitignore
+|4,39,1,0,1576557503,"~/Dotfiles/.gitignore"
+-'  1  0  ~/Dotfiles/.gitignore
+|4,39,1,0,1576557503,"~/Dotfiles/.gitignore"
+-'  14  0  ~/Dotfiles/README.md
+|4,39,14,0,1576557499,"~/Dotfiles/README.md"
+-'  14  0  ~/Dotfiles/README.md
+|4,39,14,0,1576557499,"~/Dotfiles/README.md"
+-'  14  0  ~/Dotfiles/README.md
+|4,39,14,0,1576557499,"~/Dotfiles/README.md"
+-'  14  0  ~/Dotfiles/README.md
+|4,39,14,0,1576557499,"~/Dotfiles/README.md"
+-'  1  0  ~/Dotfiles/README.md
+|4,39,1,0,1576557463,"~/Dotfiles/README.md"
+-'  1  0  ~/Dotfiles/README.md
+|4,39,1,0,1576557463,"~/Dotfiles/README.md"
+-'  1  0  ~/Dotfiles/README.md
+|4,39,1,0,1576557463,"~/Dotfiles/README.md"
+-'  1  0  ~/Dotfiles/README.md
+|4,39,1,0,1576557463,"~/Dotfiles/README.md"
+-'  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1576220867,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1576220867,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1576220867,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1576220867,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1576220867,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1576220867,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1576220867,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1576220867,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1576219250,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1576219250,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1576219250,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1576219250,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1576219250,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1576219250,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1576219250,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1576219250,"~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  11  13  ~/Desktop/OCR/jpg2txt.py
+|4,39,11,13,1575968797,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  0  ~/Desktop/OCR/jpg2txt.py
+|4,39,1,0,1575939868,"~/Desktop/OCR/jpg2txt.py"
+-'  1  15  ~/WorkSpace/03_Study/はてなブックマーク/HatenaBookmarkDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1575875828,"~/WorkSpace/03_Study/はてなブックマーク/HatenaBookmarkDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/はてなブックマーク/HatenaBookmarkDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1575875828,"~/WorkSpace/03_Study/はてなブックマーク/HatenaBookmarkDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/はてなブックマーク/HatenaBookmarkDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1575875828,"~/WorkSpace/03_Study/はてなブックマーク/HatenaBookmarkDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/はてなブックマーク/HatenaBookmarkDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1575875828,"~/WorkSpace/03_Study/はてなブックマーク/HatenaBookmarkDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/はてなブックマーク/HatenaBookmarkDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1575875828,"~/WorkSpace/03_Study/はてなブックマーク/HatenaBookmarkDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/はてなブックマーク/HatenaBookmarkDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1575875828,"~/WorkSpace/03_Study/はてなブックマーク/HatenaBookmarkDiary/.git/COMMIT_EDITMSG"
+-'  1  15  ~/WorkSpace/03_Study/はてなブックマーク/HatenaBookmarkDiary/.git/COMMIT_EDITMSG
+|4,39,1,15,1575875828,"~/WorkSpace/03_Study/はてなブックマーク/HatenaBookmarkDiary/.git/COMMIT_EDITMSG"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/Dotfiles/.git/COMMIT_EDITMSG
+	*	1576557606	0
+	"	1	21
+	^	1	24
+	.	1	21
+	+	1	21
+
+> ~/Dotfiles/.gitignore
+	*	1576557520	0
+	"	5	28
+	^	5	29
+	.	5	28
+	+	5	28
+
+> ~/Dotfiles/README.md
+	*	1576557498	0
+	"	14	0
+	.	15	0
+	+	15	131
+	+	1	4
+	+	15	0
+
+> ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/COMMIT_EDITMSG
+	*	1576220867	0
+	"	1	15
+	^	1	16
+	.	1	15
+	+	2	0
+	+	1	15
+
+> ~/Desktop/OCR/jpg2txt.py
+	*	1575968797	0
+	"	11	13
+	^	11	14
+	.	11	13
+	+	35	25
+	+	18	34
+	+	30	44
+	+	31	0
+	+	14	0
+	+	12	0
+	+	11	14
+	+	13	30
+	+	14	40
+	+	15	18
+	+	18	6
+	+	16	0
+	+	15	68
+	+	18	16
+	+	32	0
+	+	34	0
+	+	32	19
+	+	30	70
+	+	33	39
+	+	11	13
+	+	30	32
+	+	35	7
+	+	33	51
+	+	35	21
+	+	11	13
+	+	15	73
+	+	11	15
+	+	12	0
+	+	11	13
+
+> ~/WorkSpace/03_Study/はてなブックマーク/HatenaBookmarkDiary/.git/COMMIT_EDITMSG
+	*	1575875827	0
+	"	1	15
+	^	1	16
+	.	1	15
+	+	2	0
+	+	1	15
+
+> ~/.zshrc
+	*	1575606866	0
+	"	178	93
+	^	178	94
+	.	178	93
+	+	1	23
+	+	167	17
+	+	170	1
+	+	176	84
+	+	171	0
+	+	173	21
+	+	172	31
+	+	173	22
+	+	175	10
+	+	177	0
+	+	177	91
+	+	177	0
+	+	178	93
+
+> ~/Desktop/jpg/test.py
+	*	1575606816	0
+	"	19	0
+	^	14	32
+	.	14	31
+	+	28	27
+	+	14	31
+	+	23	21
+	+	24	1
+	+	26	1
+	+	27	36
+	+	28	13
+	+	14	31
+
+> ~/WorkSpace/03_Study/reading_list/.git/COMMIT_EDITMSG
+	*	1575010582	0
+	"	1	37
+	^	1	40
+	.	1	37
+	+	1	37
+
+> ~/WorkSpace/01_Development/Trial/.git/COMMIT_EDITMSG
+	*	1574166982	0
+	"	3	67
+	^	3	70
+	.	3	67
+	+	1	35
+	+	7	25
+	+	5	46
+	+	3	67
+
+> ~/WorkSpace/01_Development/Trial/.gitignore
+	*	1574166895	0
+	"	1	69
+	^	1	70
+	.	1	69
+	+	1	69
+
+> ~/WorkSpace/01_Development/Trial/Cabocha-Word2Vec-CosineSimilarity/cabocha-master/python/setup.py
+	*	1574166181	0
+	"	1	20
+	^	1	21
+	.	1	20
+	+	1	0
+	+	1	125
+	+	1	2
+	+	1	0
+	+	1	121
+	+	1	20
+
+> ~/WorkSpace/01_Development/Trial/cabocha/test.txt
+	*	1574152207	0
+	"	1	0
+
+> ~/WorkSpace/01_Development/cdt-plan/.git/COMMIT_EDITMSG
+	*	1571634055	0
+	"	1	35
+	^	1	38
+	.	1	35
+	+	1	125
+	+	1	83
+	+	1	53
+	+	1	92
+	+	1	86
+	+	1	80
+	+	1	101
+	+	1	107
+	+	1	95
+	+	1	86
+	+	1	91
+	+	1	101
+	+	1	35
+
+> ~/WorkSpace/03_Study/Qiita/QiitaDiary/.git/MERGE_MSG
+	*	1569810391	0
+	"	1	0
+
+> ~/.ssh/udemysample.pem
+	*	1568176286	0
+	"	1	0
+
+> ~/WorkSpace/03_Study/Udemy/TheModernJavaScriptBootcamp-2019-/todo-app/webpack.config.js
+	*	1566822726	0
+	"	10	12
+
+> ~/WorkSpace/03_Study/Udemy/TheModernJavaScriptBootcamp-2019-/todo-app/package.json
+	*	1566822697	0
+	"	21	0
+
+> ~/WorkSpace/03_Study/Udemy/TheModernJavaScriptBootcamp-2019-/.git/MERGE_MSG
+	*	1561342456	0
+	"	1	0
+
+> ~/WorkSpace/03_Study/Udemy/TheModernJavaScriptBootcamp-2019-/.git/COMMIT_EDITMSG
+	*	1558327769	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	22
+	+	9	32
+	+	7	48
+	+	5	45
+	+	3	33
+	+	1	0
+
+> ~/WorkSpace/03_Study/Udemy/TheModernJavaScriptBootcamp-2019-/.gitignore
+	*	1557807215	0
+	"	8	0
+
+> ~/WorkSpace/03_Study/Udemy/TheModernJavaScriptBootcamp-2019-/README.md
+	*	1557805700	0
+	"	7	22
+	^	7	25
+	.	7	22
+	+	7	28
+	+	1	38
+	+	2	87
+	+	7	22
+
+> /private/etc/paths
+	*	1556071659	0
+	"	1	0
+
+> ~/.profile
+	*	1556070963	0
+	"	3	27
+
+> ~/.vimrc
+	*	1556070769	0
+	"	69	0
+	^	21	19
+	.	21	18
+	+	69	35
+	+	15	0
+	+	70	0
+	+	19	14
+	+	20	33
+	+	22	8
+	+	21	18
+	+	20	11
+	+	21	17
+	+	20	1
+	+	21	0
+	+	22	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	21	12
+	+	20	6
+	+	21	12
+	+	20	34
+	+	45	2
+	+	20	12
+	+	21	18
+
+> ~/WorkSpace/Studies/reading_list/.git/COMMIT_EDITMSG
+	*	1553568491	0
+	"	1	32
+	^	1	35
+	.	1	32
+	+	1	5
+	+	2	0
+	+	1	32
+
+> ~/WorkSpace/Studies/Udemy/git_tutorial/home.html
+	*	1548996490	0
+	"	1	0
+	^	3	16
+	.	3	15
+	+	3	15
+
+> ~/WorkSpace/Studies/Udemy/git_tutorial/.git/rebase-merge/git-rebase-todo
+	*	1548832366	0
+	"	3	3
+	^	3	4
+	.	3	3
+	+	3	0
+	+	1	0
+	+	2	5
+	+	3	3
+
+> ~/WorkSpace/Studies/Udemy/git_tutorial/.git/COMMIT_EDITMSG
+	*	1548832048	0
+	"	1	13
+	^	1	13
+	.	1	20
+	+	1	14
+	+	3	24
+	+	1	18
+	+	10	0
+	+	1	20
+
+> ~/WorkSpace/Studies/Udemy/git_tutorial/index.html
+	*	1548827755	0
+	"	6	17
+	^	6	18
+	.	6	17
+	+	5	39
+	+	5	0
+	+	6	0
+	+	7	0
+	+	7	18
+	+	6	17
+
+> ~/.ssh/config
+	*	1548744760	0
+	"	1	3
+	^	7	20
+	.	7	19
+	+	7	19
+
+> ~/.ssh/known_hosts
+	*	1548742750	0
+	"	1	37
+
+> ~/WorkSpace/Studies/Udemy/git_tutorial/.git/MERGE_MSG
+	*	1548139628	0
+	"	1	0
+
+> ~/WorkSpace/Studies/Udemy/git_tutorial/feature.html
+	*	1548139591	0
+	"	2	9
+	^	2	10
+	.	2	9
+	+	2	9
+
+> ~/.gvimrc
+	*	1544433518	0
+	"	8	18
+	^	8	19
+	.	6	18
+	+	8	18
+	+	6	18
+
+> /private/etc/shells
+	*	1544426489	0
+	"	12	17
+	^	12	18
+	.	12	17
+	+	12	17
