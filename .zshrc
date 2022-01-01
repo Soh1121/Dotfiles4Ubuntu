@@ -201,3 +201,7 @@ export FZF_DEFAULT_OPTS='--height 30% --border'
 [[ $- != *i* ]] && return
 [[ -z "$TMUX" ]] && exec tmux
 
+########################################
+# anyenv
+export PATH="$HOME/.anyenv/bin:$PATH"
+eval "$(anyenv init -)"

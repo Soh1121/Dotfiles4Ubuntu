@@ -60,10 +60,18 @@ ln -s $ROOT/Dotfiles/.tmux.conf $ROOT/.tmux.conf
 ln -s $ROOT/Dotfiles/.tigrc $ROOT/.tigrc
 
 #---------------------------------------------------#
+# set anyenv                                        #
+#---------------------------------------------------#
+git clone https://github.com/anyenv/anyenv $ROOT/.anyenv
+echo '########################################' >> $ROOT/.zshrc
+echo '# anyenv' >> $ROOT/.zshrc
+echo 'export PATH="$HOME/.anyenv/bin:$PATH"' >> $ROOT/.zshrc
+
+#---------------------------------------------------#
 # add .zshrc                                        #
 #---------------------------------------------------#
 echo 'Setting finished!'
 echo 'add alias to .zshrc: alias t='tmux''
 echo 'add settings for fzf to .zshrc: setting for fzf'
-
-
+echo 'restart terminal'
+echo 'anyenv init'
